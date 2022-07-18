@@ -9,7 +9,7 @@
 <details open>
 <summary>Code times</summary>
 
-[![Albireo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JecosineMoc&layout=compact)](https://github.com/AlbireoBai)
+[![Albireo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbireoBai&layout=compact)](https://github.com/AlbireoBai)
 
 <details> 
 <summary>
