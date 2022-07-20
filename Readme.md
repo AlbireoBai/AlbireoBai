@@ -2,7 +2,7 @@
  
 <summary>Stats Card</summary>
   
-[![Jecosine's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=AlbireoBai&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&custom_title=AlbireoBai&hide_border=true&cache_seconds=86400)](https://github.com/AlbireoBai)
+[![AlbireoBai's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=AlbireoBai&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&custom_title=AlbireoBai&hide_border=true&cache_seconds=86400)](https://github.com/AlbireoBai)
 
 
 
