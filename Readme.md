@@ -4,14 +4,7 @@
   
 [![AlbireoBai's github stats](https://github-readme-jtf5y3z0d.vercel.app/api?username=AlbireoBai&count_private=true&show_icons=true&theme=graywhite&hide_rank=true&custom_title=AlbireoBai&hide_border=true&cache_seconds=86400)](https://github.com/AlbireoBai)
 
-
-
 <details open>
-<summary>Code times</summary>
-
-[![Albireo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbireoBai&layout=compact)](https://github.com/AlbireoBai)
-
-<details> 
 <summary>
  Smile~ ~~~///(^v^)\\\~~~
 </summary>
